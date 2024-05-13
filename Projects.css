@@ -1,0 +1,25 @@
+/* projects.css */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.project {
+    margin-bottom: 40px;
+}
+
+.project img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.project h2 {
+    margin-top: 10px;
+}
+
+.project p {
+    margin-top: 5px;
+}
+
